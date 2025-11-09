@@ -1,6 +1,6 @@
 # 🌟 O Futuro do Trabalho com Inteligência Artificial
 
-![Capa do Projeto](A_digital_illustration_showcases_the_future_of_wor.png)
+![Capa do Projeto](A_digital_illustration_in_a_futuristic_art_style_d.png)
 
 Projeto criado para o desafio **“Era das IAs Generativas!”** da **DIO**.  
 Neste projeto, explorei o uso de **IA Generativa** para imaginar de forma **criativa e inspiradora** como será o **futuro do trabalho** com o avanço da Inteligência Artificial.
